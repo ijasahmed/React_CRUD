@@ -1,3 +1,21 @@
+# React CRUD App 🛒
+
+This is a simple React application for managing products with CRUD operations using a REST API.
+
+## Features
+- List all products
+- Add new product
+- Edit existing product
+- Delete product
+- Loading spinner and better UX
+- Responsive table (Bootstrap)
+
+## Technologies
+- React.js
+- React-Bootstrap
+- Axios
+- RESTful API (Backend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
